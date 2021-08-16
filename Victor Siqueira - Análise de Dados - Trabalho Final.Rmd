@@ -1,0 +1,85 @@
+---
+title: "Victor Siqueira - Projeto Final"
+author: "Victor Siqueira"
+date: "15/08/2021"
+output: pdf_document
+---
+#A Relação entre atitudes ecológicas e o voto em candidatos de agenda ambiental
+##Questão de Pesquisa
+Atividades sustentáveis realizadas por indivíduos estão relacionadas com o voto em candidatos que defendem o meio ambiente no Brasil? Se sim, em que nível? O presente projeto busca explorar os recentes resultados lançados pelo Instituto de Tecnologia e Sociedade através da pesquisa de Percepção Climática, mais especificamente, identificar que tipos de atividades individuais, diárias ou não, estão mais relacionadas com a atitude de votar em candidatos que ativamente atuam na defesa e proteção de pautas ambientais e de mudanças climáticas. Os dados foram produzidos durante o ano de 2021 e são inéditos no Brasil e a intersecção entre as áreas de opinião pública e pesquisas de meio ambiente também é recente na ciência política brasileira.    
+    Sobre a relevância da informação de que os efeitos das mudanças climáticas sobre a população humana são imediatos e catastróficos é um consenso científico bem estabelecido, mas o seu efeito sobre a política internacional e nacional está longe de ser lugar comum no debate dos cientistas políticos. Keohane (2014) e Egan e Mullin (2017) são claros sobre a escassez de pesquisa em ciência política sobre o tema, que aparece com mais frequência em publicações de relações internacionais, mas como essa mudança global afetará as prioridades do eleitor, suas atitudes, opiniões e voto? Como uma mudança global nos recursos naturais globais afetará o eleitor?
+    Ostrom (2009) em um dos seus últimos trabalhos já argumentava como a mudança climática afeta um dos problemas mais fundamentais da ciência política, que são os “commons”, a tragédia dos bens comuns está no âmago do problema político ambiental que deve ser pensado e pesquisado. A questão ambiental na opinião pública ou como determinante de voto, não cabe mais em categorias como as de “valores pós-modernos” como apresentado em Lijphart (2003). 
+Em opinião pública, Egan e Mullin (2017) produzem uma excelente revisão sobre o estado da pesquisa nos Estados Unidos e sobre os Estados Unidos e só recentemente, através dos dados do Projeto Percepção Climática dados de opinião sobre mudanças climáticas o Brasil estão disponíveis para pesquisa e é com essa recente base que o presente trabalho se utiliza.
+
+##Marco Teórico
+Keohane (2014) e Egan e Mullin (2017) apresentam bases para se incentivar o aumento da produção de pesquisas na área de mudanças climáticas e mais especificamente em opinião pública, mas quais os principais resultados encontrados nessa subárea? 
+Hornsey, Harris e Bain (2016) apresentam um dos mais recentes e extensos estudos de meta-análise dos resultados encontrados sobre os determinantes e “outcomes” das crenças em mudanças climáticas e dois principais resultados são encontrados: 1) Variáveis como educação, sexo, conhecimento e experiências passadas com eventos climáticos severos determinam menos as atitudes em relação às mudanças climáticas do que variáveis como valores, ideologia, visões de mundo e orientação política; 2) Crenças de reconhecimento em relação às mudanças climáticas de efeitos apenas pequenos a moderados na tradução de crenças sobre o clima e atitudes “verdes” ou “climate-friendly”. Esses achados em meta-análise são determinantes para a escolha da variável independente do presente trabalho, tendo em vista que justificar parte do voto devido às propostas ambientais dos candidatos já se traduz como atitude verde, além de trazer a discussão sobre a problemática ambiental para o nível do indivíduo e das políticas locais.
+Já em Carbone, Hallstrom e Smith (2005) é argumentado que em condições experimentais os consumidores se adaptam às alterações causadas por furacões no mercado imobiliário indicando uma capacidade de adaptação por parte dos agentes ao reconhecerem custos futuros frutos de mudanças climáticas.
+O atual trabalho se propõe a usar as referências supracitadas para justificar a importância e validade de uma exploração dos dados de opinião sobre as mudanças climáticas, dessa forma, a construção da importância de uma hipótese que relacione atuação.
+
+##Dados e Variáveis
+Os dados utilizados no trabalho são produzidos por uma parceria entre o instituto de Tecnologia e Sociedade(ITS) e o Yale Program on Climate Change Communication para a realização de uma pesquisa de opinião com 2600 entrevistados representante a nível Brasil com margem de erro de 2 pontos percentuais e com nível de confiança de 95%.
+    As variáveis utilizadas no presente estudo estão identificadas no questionário através da pergunta 1.1.7 relativas a atitudes individuais em relação ao meio ambiente. Mais especificamente é perguntado se: 1) “Costuma separar lixo para reciclagem”; 2)  “Utiliza energia solar na sua residência, ou outro tipo de energia que não é poluente”; 3) “Deixa de comprar ou usar algum produto que prejudica o meio ambiente, por exemplo, sacola plástica, produtos químicos, etc”; 4) “Já participou de alguma manifestação ou
+abaixo-assinado sobre mudança climática”; 5) “Já votou em algum político em razão de suas propostas para defesa do meio ambiente”; 6) “Já fez alguma doação para instituições de defesa do meio ambiente”; 7) “Já compartilhou informações ou notícias em defesa do meio ambiente”. Todas as respostas para os itens acima são dicotômicas e divididas entre “Sim” e “Não”.
+    A variável dependente do estudo é o item 5 do questionário, “Já votou em algum político em razão de suas propostas para defesa do meio ambiente”, e os demais itens são as variáveis explicativas ou independentes.
+    Em termos de confiabilidade, os dados são consistentes e as perguntas são repetidas e introduzidas para todos os respondentes da mesma maneira, dessa forma, a aplicação do questionário e as respostas coletadas demonstram a consistência demandada pelo critério de confiabilidade.
+    Em termos de Validade, tanto a proposta do trabalho, quanto a do questionário de survey aplicado é de identificar a opinião e as práticas dos respondentes em um questionário onde são livros para responder conforme sua conveniência, dessa forma, o questionário é válido no sentido de que captura a opinião dos respondentes assim como se propõe.
+ Em um exercício teórico para identificar quais seriam as condições e mecanismos ideais para mensurar as variáveis utilizados no projeto, deveria-se coletar detalhes sobre a eleição, ano e candidato para os respondentes que responderam afirmativamente à questão operacionalizada na variável dependente, dessa forma, seria possível identificar se o candidato se elegeu, qual o nível da eleição e se houve alguma forma de acompanhamento, para as variáveis independentes, o interessante seria conseguir identificar o quão frequente são as atividades realizadas no dia-a-dia dos respondentes, tendo em vista, a possibilidade de algum nível de viés de desejabilidade em favor de atitudes sustentáveis.
+ 
+##Desenvolvimento de Hipóteses e Explicação Causal Teórica
+O atual trabalho se vale das seguintes hipóteses: 
+Ha1) As variáveis independentes de atitudes pró-meio ambiente estão positivamente relacionadas ao voto em candidatos pró-meio ambiente operacionalizada na variável dependente em nível de significância p-valor < 0.05.
+    Ha1.2) As variáveis independentes de doação para causas ambientais e utilização de painéis solares ou outras fontes de energia possuirão uma relação mais fraca em comparação a variável de participação em manifestações.
+    As expectativas teóricas das hipóteses apresentadas acima partem dos achados da meta-análise de Hornsey, Harris e Bain (2016) e do experimento de  Carbone, Hallstrom e Smith (2005). O presente estudo procura testar, de maneira exploratória, a força dos achados da meta-análise onde as variáveis de identificação política são muito mais significativos para a crença no papel humano nas mudanças climáticas do que variáveis de atitudes ecológicas, um resultado não necessariamente contraditório, mas que levanta questionamentos sobre a força do argumento ideológico enquanto variável explicativa para prever atitudes e posições. Já o segundo estudo experimental apresenta evidências do impacto econômico de desastres ambientais sobre o comportamento do mercado, argumento esse que nos estudos de impacto econômico avaliados em Hornsey, Harris e Bain (2016) não são duradouros.
+Em suma, as expectativas teóricas são de que 1) Sim, atitudes ecológicas são preditores positivos de voto em candidatos de agenda em favor do meio ambiente, mas que 2) a participação política tem um impacto maior do que investimentos financeiros, mesmo que representem formas de maior impacto de compromisso ambiental.
+
+##Metodologia estatística
+O principal teste estatístico utilizado para mensurar a direção e força da relação entre as variáveis dependente e independentes é a regressão linear multivariada e as demais análises são exploratórias das variáveis inéditas.
+
+##Hurdles
+Essa pequena seção está separada para avaliar o cumprimento dos quatro “hurdles” ou obstáculos para identificar a lógica de causação desse estudo. Os quatro obstáculos são definidos por: 1.) Existe um mecanismo causal convincente que conecta X a Y?; 2.) Podemos descartar a possibilidade de que é Y que causa X?; 3.) Existe covariação entre x e Y? 4.) Foi possível controlar as possíveis variáveis Z que podem alterar a relação entre X e Y?
+    Para o obstáculo 1, relativo ao mecanismo causal convincente, a relação entre as variáveis de participação ecológica e o voto em candidatos com pautas em defesa do meio ambiente são claras e discutidas no trabalho. Atitudes ecológicas no dia-a-dia são hipoteticamente preditores razoáveis de voto em candidatos “verdes”. Em relação ao obstáculo 2, relacionado a causação reversa, mesmo que seja uma possibilidade teórica, a relação entre atividades diárias e voto parece indicar que decisões sobre o dia-a-dia ou estilo de vida antecedem à atividade de voto que é mais orientada por variáveis de desempenho econômico, identitarismo e condições regionais do que a pauta ambiental. Sobre o obstáculo 3, os resultados encontrados indicam que há forte covariância entre as variáveis. Por fim, o obstáculo 4, o questionário de survey aqui utilizado possui uma variável sobre escolaridade, mas não disponibiliza meios de comparar os resultados do survey com as demais determinantes do voto, dessa forma, não foi possível controlar pelas principais variáveis que poderiam alterar a relação entre variável dependente (Y) e variáveis independentes (Xn), ainda mais tendo em vista que o questionário de survey não é o instrumento adequado para identificar preditores e determinantes de voto.
+
+##Resultados e códigos
+###A seção abaixo apresenta a codificação necessária para reprodução do presente trabalho
+
+```{r}
+#cARREGA PACOTES
+library(tidyverse)
+library(readxl)
+library(ggplot2)
+library(sjPlot)
+library(stargazer)
+```
+
+```{r}
+#Baixa os dados
+url <- "https://drive.google.com/file/d/1lj-_RttkcNj4OCqiyzFJdVGtL_nILV3B/view?usp=drivesdk"
+destfile <- "C:/Users/Victor/Downloads/its.xlsx"
+download.file(url, destfile)
+its <- read_excel("C:/Users/Victor/Downloads/its.xlsx")
+```
+
+```{r}
+#renomeia as variáveis
+its_novo <- its %>%
+  rename(voto_MA = P1_1_7_5, Reciclagem = P1_1_7_1, Renovável = P1_1_7_2, DeixaDeComprar = P1_1_7_3, manifestacao = P1_1_7_4, doacao = P1_1_7_6, noticias = P1_1_7_7)
+
+#Regressão Linear
+regresso <- lm(its_novo$voto_MA ~ its_novo$Reciclagem + its_novo$Renovável + its_novo$DeixaDeComprar + its_novo$manifestacao + its_novo$doacao + its_novo$noticias)
+regresso2 <- lm(voto_MA ~ Reciclagem + Renovável + DeixaDeComprar + manifestacao + doacao + noticias, data = its_novo)
+summary(regresso2)
+```
+Os resultados encontrados são de que todas as variáveis são positivamente relacionadas com a variável de voto, mas não são todas que encontram níveis de significância. As variáveis de reciclagem e de uso de energias alternativas não são significativas em nenhum nível, já as variáveis sobre redução de uso de plástico, participação em manifestações, doações e compartilhamento de notícias foram significativas ao nível de 1%.
+Sobre as hipóteses do trabalho, a hipótese 1 rejeita a hipótese nula apenas para as variáveis independentes em que os resultados encontrados foram significativos e a hipótese 2 também rejeita a hipótese nula ao identificarmos que a participação em manifestações alcança poder explicativo significativamente maior do que as variáveis de compromisso econômico e também as demais variáveis.
+Os resultados são apresentados nas tabelas e gráficos abaixo:
+```{r}
+#Plota os resultados da Regressão
+plot_model(regresso, type = "std", title = "Voto ~ Atitudes Ecológicas")
+stargazer(regresso2, type = "latex", header = F)
+```
+
+##Conclusões e Desenvolvimentos Teóricos
+Os resultados finais encontrados corroboram em grande medida as hipóteses levantadas no trabalho de que as variáveis de atitudes ecológicas funcionam como preditoras do voto em candidatos que defendem pautas de mitigação climáticas e também corroboram a hipótese de que as variáveis de participação política são, para os dados disponíveis, melhores preditoras do voto “verde” do que os resultados de atitudes ecológicas no dia-a-dia.
+    Por fim, esse projeto identifica que ajuda a desenvolver teoricamente a disciplina na medida em que se propõe a tratar como variável explicativa para o voto atitudes ambientais que passarão a ser cada vez mais presentes no discurso econômico e político das próximas décadas. As mudanças climáticas já estão alterando o perfil econômico de países e continentes e vão determinar os próximos saltos tecnológicos necessários para sustentar o crescimento econômico e a viabilidade da vida em locais com risco de desaparecerem ou de se tornarem impraticáveis de se viver seja pelo calor, frio, fome, doenças ou quaisquer variáveis ambientais. É urgente e fundamental para disciplina da ciência política procurar pensar a problemática ambiental não apenas como uma espécie de clivagem de estilo vida, mas um divisor de águas entre que escolhas serão feitas para sustentar economias e regimes políticos.
+
